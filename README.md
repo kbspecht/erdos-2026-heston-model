@@ -17,3 +17,5 @@ Data was taken from TSLA options spanning 3 expiration dates in 2023.
 - Economists, stockbrokers, or anyone else looking for the best way to model market trends
 
 ### File Organization
+
+The repository includes a PDF copy of the executive summary, a Jupyter notebook containing the source code for the models, and a PNG file containing the plots of key metrics.
