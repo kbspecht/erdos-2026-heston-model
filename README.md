@@ -18,4 +18,4 @@ Data was taken from TSLA options spanning 3 expiration dates in 2023.
 
 ### File Organization
 
-The repository includes a PDF copy of the executive summary, a Jupyter notebook containing the source code for the models, and a PNG file containing the plots of key metrics.
+The repository includes a PDF copy of the executive summary, the data used in CSV format, a Jupyter notebook containing the source code for the models, and a PNG file containing the plots of key metrics.
